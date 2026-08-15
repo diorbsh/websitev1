@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/websitev1/static/css/main.d5304cdf.css",
+    "main.js": "/websitev1/static/js/main.d03e3d2f.js",
+    "static/js/453.b05d8aa5.chunk.js": "/websitev1/static/js/453.b05d8aa5.chunk.js",
+    "static/media/ecommerceshop.png": "/websitev1/static/media/ecommerceshop.5c0a55ce00b96894fd6e.png",
+    "static/media/bg-light.png": "/websitev1/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/websitev1/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/profile.png": "/websitev1/static/media/profile.a258d0cd7355757d7cc7.png",
+    "static/media/wordpress.jpg": "/websitev1/static/media/wordpress.ac3aa0f5224bab5ada4c.jpg",
+    "static/media/iot.png": "/websitev1/static/media/iot.72778febdf2972c8a06b.png",
+    "static/media/weatherstation.jpg": "/websitev1/static/media/weatherstation.6b4a616827874bd45e15.jpg",
+    "static/media/xamarin.png": "/websitev1/static/media/xamarin.0f5cb5b282ca65a6a5ab.png",
+    "static/media/nodered.png": "/websitev1/static/media/nodered.41b7bcab64269775cafc.png",
+    "index.html": "/websitev1/index.html",
+    "main.d5304cdf.css.map": "/websitev1/static/css/main.d5304cdf.css.map",
+    "main.d03e3d2f.js.map": "/websitev1/static/js/main.d03e3d2f.js.map",
+    "453.b05d8aa5.chunk.js.map": "/websitev1/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5304cdf.css",
+    "static/js/main.d03e3d2f.js"
+  ]
+}
